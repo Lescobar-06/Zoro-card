@@ -235,7 +235,7 @@ h3 {
   display: grid;
   align-items: center;
   justify-content: center;
-  padding-top: 96px;
+  padding-top: 80px;
   border-radius: 0.5rem;
   transition: background-color 0.3s ease;
   position: absolute;
